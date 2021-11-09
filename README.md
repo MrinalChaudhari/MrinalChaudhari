@@ -27,6 +27,12 @@ I am interested in developing machine learning models to solve real-world proble
 <li>👨‍🎓 I firmly belive in growing together.</li>
 <li>🌐 You can access my projects here on GitHub
 </ul>
+<h3>🌱 I’m currently learning/learnt: </h3>
+<li> Natural language processing
+<li>Linear regression
+<li>Data Science-capstone project(prediction of offensive text in Indo-Aryan(Marathi-Hindi) Language)
+<li>Visual analytics
+<li>Database Design and Implementation
 <hr>
 <h3>My Skills: 💻📈</h3>
 <div>
