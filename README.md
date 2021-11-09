@@ -1,4 +1,4 @@
-### Hi there 👋 I'am Mrinal Chaudhari
+### Hi there 👋 I'm Mrinal Chaudhari
 
 <!--
 **MrinalChaudhari/MrinalChaudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
