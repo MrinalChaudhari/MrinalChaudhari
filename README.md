@@ -54,7 +54,7 @@ I am interested in developing machine learning models to solve real-world proble
 </div>
 <br>
 <hr>
-<img align="right" src="https://media.giphy.com/media/SmQPRXW9eO5PjBeO30/giphy.gif?cid=ecf05e47caqmsp08rvmkil5k08yfvjcpi0ti33x1z7qzuw7e&rid=giphy.gif&ct=g" width="300px">
+<img align="right" src="https://camo.githubusercontent.com/a98ec88042f69d36f3900668309e445a6df51dcf20e1ecac2b33a81da775af38/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f68725346644d3472673856467058797a326d2f67697068792e676966" width="300px">
 <h3>🦄 Apart from Data Science</h3>
 <ul>
     <li>I love to travel 🌍 </li>
