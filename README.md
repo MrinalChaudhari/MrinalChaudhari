@@ -28,7 +28,7 @@ I am interested in developing machine learning models to solve real-world proble
 <li>🌐 You can access my projects here on GitHub
 </ul>
 <br>
-<h3>🌱 I’m currently learning/learnt: </h3>
+<h3>🌱 I’m currently learning: </h3>
 <li> Natural language processing
 <li>Linear regression
 <li>Data Science-capstone project(prediction of offensive text in Indo-Aryan(Marathi-Hindi) Language)
