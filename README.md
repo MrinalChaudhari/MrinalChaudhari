@@ -19,7 +19,7 @@ I am interested in developing machine learning models to solve real-world proble
 <hr>
 
 <h3>About me 🙋</h3>
-<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
+<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left' width="280px">
 <ul>
 <li>👨‍💻 I'm a <em>Data Science</em> student at <strong>Rochester Institute of Technology</strong> looking for internship and full-time opportunities.</li>
 <li>👨‍🔬 I'm worked as a <em> Graduate and Teaching Assistant</em> in <strong> Software Engineering department</strong>.</li>
