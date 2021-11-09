@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>Currently pursuing a Master’s Degree in Data Science at Rochester Institute of Technology.
-I am interested in developing machine learning models to solve real-world problems. I am actively searching for internship and Full-time opportunities that can help me to build my skills in data science..</p>
+I am interested in developing machine learning models and visualize data to solve real-world problems. I am actively searching for internship and Full-time opportunities that can help me to build my skills in data science..</p>
 <hr>
 
 <h3>About me 🙋</h3>
