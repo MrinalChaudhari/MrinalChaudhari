@@ -28,6 +28,7 @@ I am interested in developing machine learning models and visualize data to solv
 <li>🌐 You can access my projects here on GitHub
 </ul>
 <br>
+<br>
 <h3>🌱 I’m currently learning: </h3>
 <li> Natural language processing
 <li>Linear regression
