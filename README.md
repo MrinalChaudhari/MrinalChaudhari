@@ -28,10 +28,6 @@ I am interested in developing machine learning models to solve real-world proble
 <li>🌐 You can access my projects here on GitHub
 </ul>
 <hr>
-<br>
-<br>
-<br>
-<br>
 <h3>My Skills: 💻📈</h3>
 <div>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
