@@ -74,3 +74,5 @@ I am interested in developing machine learning models to solve real-world proble
 </div>
 <hr>
 <br>
+<hr>
+<h3>⚡ Fun fact: Risk comes from not knowing what you are doing</h3>
