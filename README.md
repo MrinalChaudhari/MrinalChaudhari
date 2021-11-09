@@ -25,6 +25,7 @@ I am interested in developing machine learning models to solve real-world proble
 <li>👨‍🔬 I'm worked as a <em> Graduate and Teaching Assistant</em> in <strong> Software Engineering department</strong>.</li>
 <li>☁  Worked as <em> Database Administrator</em> at <strong> Tata Consultancy Services, India </strong> for 2 years.</li>
 <li>👨‍🎓 I firmly belive in growing together.</li>
+<li>🌐 You can access my projects here on GitHub
 </ul>
 <hr>
 <br>
@@ -53,3 +54,27 @@ I am interested in developing machine learning models to solve real-world proble
 </div>
 <br>
 <hr>
+<img align="right" src="https://media.giphy.com/media/SmQPRXW9eO5PjBeO30/giphy.gif?cid=ecf05e47caqmsp08rvmkil5k08yfvjcpi0ti33x1z7qzuw7e&rid=giphy.gif&ct=g" width="300px">
+<h3>🦄 Apart from Data Science</h3>
+<ul>
+    <li>I love to travel 🌍 </li>
+    <li>We can connect to play some games of Chess ♟
+    <li>Love to read books 📖</li>
+    <li>I like to paint and sketch ✏️</li>
+</ul>
+<hr>
+
+<h3>You can connect me on✨</h3>
+<div>
+    <a href="https://www.linkedin.com/in/mrinalchaudhari/">
+        <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
+    </a>&nbsp;&nbsp;
+    <a href="mailto: mrinalchaudhari9@gmail.com">
+        <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30px">
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/MrinalChaudhari">
+        <img src="https://image.flaticon.com/icons/png/512/25/25657.png" width="30px">
+    </a>&nbsp;&nbsp;
+</div>
+<hr>
+<br>
