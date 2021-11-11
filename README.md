@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>Currently pursuing a Master’s Degree in Data Science at Rochester Institute of Technology.
-I am interested in developing machine learning models and visualize data to solve real-world problems. I am actively searching for internship and Full-time opportunities that can help me to build my skills in data science..</p>
+I describe myself as result-oriented, customer-focused, data-enthusiast with a deep interest in data analytics and machine learning. I am interested in developing machine learning models and visualizing data to solve real-world problems. I am actively searching for internship and full-time opportunities that can help me build my skills in data science field..</p>
 <hr>
 
 <h3>About me 🙋</h3>
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left' width="200px">
 <ul>
 <li>👨‍💻 I'm a <em>Data Science</em> student at <strong>Rochester Institute of Technology</strong> looking for internship and full-time opportunities.</li>
-<li>👨‍🔬 I'm worked as a <em> Graduate and Teaching Assistant</em> in <strong> Software Engineering department</strong>.</li>
+<li>👨‍🔬 I've worked as a <em> Graduate and Teaching Assistant</em> in <strong> Software Engineering department</strong>.</li>
 <li>☁  Worked as <em> Database Administrator</em> at <strong> Tata Consultancy Services, India </strong> for 2 years.</li>
 <li>👨‍🎓 I firmly belive in growing together.</li>
 <li>🌐 You can access my projects here on GitHub
