@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>Currently pursuing a Master’s Degree in Data Science at Rochester Institute of Technology.
+<br>
 I describe myself as result-oriented, customer-focused, data-enthusiast with a deep interest in data analytics and machine learning. I am interested in developing machine learning models and visualizing data to solve real-world problems. I am actively searching for internship and full-time opportunities that can help me build my skills in data science field..</p>
 <hr>
 
