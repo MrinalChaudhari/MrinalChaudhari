@@ -59,7 +59,7 @@ I describe myself as result-oriented, customer-focused, data-enthusiast with a d
 </div>
 <br>
 <hr>
-<img align="right" src="https://camo.githubusercontent.com/a98ec88042f69d36f3900668309e445a6df51dcf20e1ecac2b33a81da775af38/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f68725346644d3472673856467058797a326d2f67697068792e676966" width="500px">
+<img align="right" src="https://camo.githubusercontent.com/a98ec88042f69d36f3900668309e445a6df51dcf20e1ecac2b33a81da775af38/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f68725346644d3472673856467058797a326d2f67697068792e676966" width="490px">
 <h3>🦄 Apart from Data Science</h3>
 <ul>
     <li>I love to travel 🌍 </li>
