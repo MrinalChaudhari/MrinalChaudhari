@@ -27,6 +27,7 @@ I describe myself as result-oriented, customer-focused, data-enthusiast with a d
 <li>☁  Worked as <em> Database Administrator</em> at <strong> Tata Consultancy Services, India </strong> for 2 years.</li>
 <li>👨‍🎓 I firmly belive in growing together.</li>
 <li>🌐 You can access my projects here on GitHub
+<li> Visit my Tableau Dashboards: https://public.tableau.com/app/profile/mrinal.chaudhari/viz/CovidDashboard_16426135888910/Dashboard1?publish=yes
 </ul>
 <br>
 <br>
