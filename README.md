@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Currently pursuing a Master’s Degree in Data Science at Rochester Institute of Technology.
+<p>
+Full Stack Engineer with 3 years of experience at Amazon, contributing across three diverse teams: Amazon Fraud Detector, Danica AIML, and Amazon Q. Skilled in building scalable, secure, and high-performing solutions using AWS, microservices, and CI/CD. Experienced in full product lifecycle—from design to deployment—delivering features that improved system reliability, reduced latency, and enhanced user experience. Passionate about clean code, cross-team collaboration, and creating meaningful impact through technology.
 <br>
-I describe myself as result-oriented, customer-focused, data-enthusiast with a deep interest in data analytics and machine learning. I am interested in developing machine learning models and visualizing data to solve real-world problems. I am actively searching for internship and full-time opportunities that can help me build my skills in data science field..</p>
+
+Currently open to new opportunities, where I can bring my technical expertise, ownership mindset, and passion for impactful software to innovative teams and products.</p>
 <hr>
 
 <h3>About me 🙋</h3>
