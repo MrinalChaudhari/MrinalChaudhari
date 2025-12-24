@@ -24,19 +24,17 @@ Currently open to new opportunities, where I can bring my technical expertise, o
 <h3>About me 🙋</h3>
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left' width="200px">
 <ul>
-<li>👨‍💻 I'm a <em>Data Science</em> student at <strong>Rochester Institute of Technology</strong> looking for full-time opportunities.</li>
+<li>👨‍💻 I'm graduated from <strong>Rochester Institute of Technology</strong> in field of <em>Data Science</em> </li>
 <li>👨‍🔬 I've worked as a <em> Graduate and Teaching Assistant</em> in <strong> Software Engineering department</strong>.</li>
-<li>☁  Worked as <em> Database Administrator</em> at <strong> Tata Consultancy Services, India </strong> for 2 years.</li>
+<li>☁  Worked as <em> Database Engineer</em> at <strong> Tata Consultancy Services, India </strong> for 2 years.</li>
+<li>☁  Worked as <em> Software Developer Engineer</em> at <strong> Amazon Web Services at Seattle </strong> for 3 years.</li>
 <li>👨‍🎓 I firmly belive in growing together.</li>
 <li>🌐 You can access my projects here on GitHub
 <li> Visit my Tableau Dashboards: https://public.tableau.com/app/profile/mrinal.chaudhari/viz/CovidDashboard_16426135888910/Dashboard1?publish=yes
 </ul>
-<h3>🌱 I’m currently learning: </h3>
-<li> Natural language processing
-<li>Linear regression
-<li>Data Science-capstone project(prediction of offensive text in Indo-Aryan(Marathi-Hindi) Language)
-<li>Visual analytics
-<li>Database Design and Implementation
+<h3>🌱 I’ve build applications and projects in </h3>
+<li> Gen AI- LLm Models,building AI agents
+<li> I have build and deployed scalable Backend API's
 <hr>
 <h3>My Skills: 💻📈</h3>
 <div>
